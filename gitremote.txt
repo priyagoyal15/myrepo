@@ -1,0 +1,12 @@
+1 GitHub account 
+2 Empty Repo
+3 local System
+  in terminal
+    git config -- global user.name "------"
+    git config -- global user.email "------"
+4 git push -u origin master
+   username? - "-----"
+   password? - (Token psw not GitHub psw)
+
+
+    
